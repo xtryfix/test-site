@@ -1,0 +1,9 @@
+AddDefaultCharset UTF-8
+
+RewriteRule ^index?$ index.php [NC,L]
+
+ErrorDocument 404 /404
+
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
