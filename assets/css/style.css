@@ -1,0 +1,72 @@
+.light-theme {
+    background: #f0f2f5 !important;
+    color: #222226!important;
+}
+
+.light-theme .ref {
+    color: #000 !important;
+}
+
+.light-theme .pos {
+    position: relative;
+    left: 500px;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.light-theme .posn {
+    position: relative;
+    left: 570px;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+
+
+
+
+.aside1 {
+    margin: 0 1.5% 24px 1.5%;
+    float: right;
+    margin-bottom: 0;
+}
+
+.aside2 {
+    margin: 0 1.5% 24px 1.5%;
+    float: left;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dark-theme {
+    background: #222226 !important;
+    color: #777777!important;
+}
+
+
+.dark-theme .ref {
+    color: #777777 !important;
+}
+
+.dark-theme .pos {
+    position: relative;
+    left: 500px;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.dark-theme .posn {
+    position: relative;
+    left: 200px;
+    display: flex !important;
+    justify-content: space-between !important;
+}
